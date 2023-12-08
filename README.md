@@ -2,7 +2,7 @@
 
 - 👋🏻 Hi, I'm Ardi. Frontend Developer | UI/UX Designer.
 - 🎯 My Skills: React JS, Next JS, Git, HTML, CSS, Javascript, Typescript, Redux, Tailwind CSS, Figma.
-- 📧 For bussiness inquiries: thoriq.ardiansyah0@gmail.com
+- 📧 For business inquiries: thoriq.ardiansyah0@gmail.com
 <!--
 **thoriqardiansyah/thoriqardiansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
